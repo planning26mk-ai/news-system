@@ -1,7 +1,10 @@
 import streamlit as st
 from supabase import create_client
 
-# تأكدي أن هذا الرابط هو الموجود في صفحة API Settings في Supabase
+import streamlit as st
+from supabase import create_client
+
+# تأكدي أن السطر يبدأ وينتهي بعلامة "
 url = "https://bmqjhgassxuxskkldsvu.supabase.co"
 key = "sb_publishable_EyqvcYQadom5V0EqmJQ1Q_joKwp3I0"
 
